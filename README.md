@@ -1,0 +1,1 @@
+# Ngrx-Angular-Simple-ShoppingList
