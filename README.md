@@ -1,3 +1,5 @@
+# Live Url  (https://gajanan0707.github.io/Ngrx-Angular-Simple-ShoppingList/)
+
 # NgrxShoppingList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
