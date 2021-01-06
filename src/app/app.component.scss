@@ -1,0 +1,25 @@
+#wrapper {
+  text-align: center;
+  color: white;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+#shopping-list {
+  box-shadow: 20px 20px 0 #222f3e;
+  background-color: #e08213;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+}
+
+.inputtag{
+    width: 365px;
+}

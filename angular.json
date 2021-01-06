@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngrx-shopping-list"
+    }
+  },
+  "defaultProject": "ngrx-shopping-list",
+  "cli": {
+    "analytics": "dad1c3eb-2f8c-4156-a04c-a1a732848143"
+  }
 }
